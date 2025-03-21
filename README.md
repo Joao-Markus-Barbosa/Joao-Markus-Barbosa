@@ -49,6 +49,8 @@
  
  [Certificado de Qualificação Profissional em Análise de Sistemas e Prototipagem Web](https://www.fiap.com.br/consultadocumento)
  - Código da Crendencial - 8175F911
+
+ [Heineken - Inteligência Artificial Aplicada a Dados com Copilot](https://hermes.dio.me/certificates/UUIVHU8U.pdf)
  
  [C#: aplicando a Orientação a Objetos](https://cursos.alura.com.br/certificate/35880b55-d715-42d8-a96a-e911c4104f38?lang)
  
