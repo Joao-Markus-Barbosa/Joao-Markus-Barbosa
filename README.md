@@ -39,6 +39,8 @@
  - ALURA
  
  - DIO
+
+ - Academia do Programador
  
  # Certificados / Lincenças
  
