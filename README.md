@@ -43,12 +43,17 @@
  # Certificados / Lincenças
  
  [Engenharia Mecânica](https://portal.uniasselvi.com.br/institucional/diploma-digital/1472.1472.205426fe8ffd6bdf5b5b33f0c064ce4fd0a56b03c33a7613b3f5b1d22b9d7526)
+
+ [Certificado de Qualificação Profissional em Desenvolvimento de Aplicações Móveis](https://www.fiap.com.br/consultadocumento)
+ - Código da Crendencial - BE9ADE63
  
  [Certificado de Qualificação Profissional em Análise e Design Web 2.0](https://www.fiap.com.br/consultadocumento)
  - Código da Crendencial - 66DF4542
  
  [Certificado de Qualificação Profissional em Análise de Sistemas e Prototipagem Web](https://www.fiap.com.br/consultadocumento)
  - Código da Crendencial - 8175F911
+
+ [DIO Decola Tech Avanade 2025](https://hermes.dio.me/certificates/LPG4V5IF.pdf)
 
  [Heineken - Inteligência Artificial Aplicada a Dados com Copilot](https://hermes.dio.me/certificates/UUIVHU8U.pdf)
  
