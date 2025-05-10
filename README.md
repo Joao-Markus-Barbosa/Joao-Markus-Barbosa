@@ -2,12 +2,17 @@
  ## Graduado em Engenharia Mecânica, Atualmente estudando Análise e Desenvolvimento de Sistemas na instituição FIAP.
  
  ## Sobre 
- Tenho firme intenção de dedicar minha carreira ao desenvolvimento de software. Atualmente, estou imerso nos estudos na Faculdade de Informática e Administração Paulista (FIAP) com foco na graduação de Análise e Desenvolvimento de Sistemas. Esta experiência é fundamental para adquirir habilidades técnicas para criação de softwares eficientes e robustos. Através das aulas e projetos feitos na instituição, tenho explorado linguagens de programação, frameworks e metodologias nas quais venho obtendo certificações em Desenvolvimento de Sistemas, Integração de Sistemas, Análise de Sistemas e Prototipagem Web. 
- 
- Possuo habilidades técnicas com as ferramentas Git, GitHub, SQL Developer, SQL Developer Data Modeler, Java, C#, Python, JavaScript, CSS, HTML, Kotlin, Android Studio e React. Além disso, tenho experiência em atendimento ao cliente com foco em trazer satisfação nos resultados baseados em serviços automotivos, bem como em suporte à gestão de fornecedores, auxiliando na aquisição e gestão de compras de peças e serviços terceirizados com parceiros. 
- 
- Tenho conhecimentos em Engenharia Mecânica através do Centro Universitário Leonardo da Vinci (UNIASSELVI), que engloba diversos conhecimentos em ciências exatas, bem como algoritmos e programação. Possuo também conhecimento no idioma inglês em nível básico a intermediário e estou atualmente aperfeiçoando este conhecimento através do EF English Live.
- 
+Tenho firme intenção de construir minha carreira na área de desenvolvimento de software. Atualmente, curso Análise e Desenvolvimento de Sistemas na FIAP, onde venho desenvolvendo uma base sólida em linguagens de programação, frameworks modernos e metodologias ágeis.
+
+Ao longo da graduação, obtive certificações complementares em Desenvolvimento de Sistemas, Integração de Sistemas, Análise de Sistemas, Prototipagem Web e Desenvolvimento de Aplicações Móveis, o que fortaleceu minha capacidade de atuar de forma integrada no desenvolvimento completo de soluções — desde o front-end até o back-end e banco de dados.
+
+Tenho experiência prática com bancos de dados relacionais, atuando tanto na modelagem visual de tabelas quanto na criação e manipulação via SQL, utilizando tecnologias como PostgreSQL, MySQL e Oracle. 
+No back-end, possuo base sólida em programação orientada a objetos, com experiência em Python, C# e Java. Os projetos mais estruturados foram desenvolvidos com Java + Spring Boot, utilizando conceitos como APIs REST, integração com banco de dados e organização modular.
+No front-end, já trabalhei com HTML e CSS, além de ter tido contato com JavaScript e TypeScript. Também explorei o uso do framework Angular em projetos iniciais, com foco em responsividade e organização de componentes.
+
+Entre as experiências práticas, informo Visão Negócio, onde participei do desenvolvimento de interfaces públicas da plataforma, colaborando na estruturação visual e responsiva das telas, e acompanhando de perto a integração entre front-end, back-end e banco de dados em um ambiente de aplicação real.
+
+Além do ambiente acadêmico, possuo experiência profissional com atendimento ao cliente e gestão de fornecedores no setor automotivo, sempre buscando soluções práticas e eficazes. Também sou formado em Engenharia Mecânica pela UNIASSELVI, o que complementa minha formação com uma base sólida em ciências exatas, raciocínio lógico e fundamentos de programação.
  # Linguagens de Programação
  
  ![Java](https://img.icons8.com/?size=80&id=13679&format=png&color=000000) ![C#](https://img.icons8.com/?size=80&id=45490&format=png&color=000000)
