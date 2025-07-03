@@ -2,17 +2,18 @@
  ## Graduado em Engenharia Mecânica, Atualmente estudando Análise e Desenvolvimento de Sistemas na instituição FIAP.
  
  ## Sobre 
-Tenho firme intenção de construir minha carreira na área de desenvolvimento de software. Atualmente, curso Análise e Desenvolvimento de Sistemas na FIAP, onde venho desenvolvendo uma base sólida em linguagens de programação, frameworks modernos e metodologias ágeis.
+Tenho firme intenção de construir minha carreira na área de desenvolvimento de software.
+Sou graduado em Análise e Desenvolvimento de Sistemas pela FIAP (2025) e também graduado em Engenharia Mecânica, com perfil multidisciplinar e foco na aplicação prática de tecnologia para resolver problemas reais.
 
 Ao longo da graduação, obtive certificações complementares em Desenvolvimento de Sistemas, Integração de Sistemas, Análise de Sistemas, Prototipagem Web e Desenvolvimento de Aplicações Móveis, o que fortaleceu minha capacidade de atuar de forma integrada no desenvolvimento completo de soluções — desde o front-end até o back-end e banco de dados.
 
-Tenho experiência prática com bancos de dados relacionais, atuando tanto na modelagem visual de tabelas quanto na criação e manipulação via SQL, utilizando tecnologias como PostgreSQL, MySQL e Oracle. 
+Tenho experiência prática com bancos de dados relacionais, atuando tanto na modelagem visual de tabelas quanto na criação e manipulação via SQL, utilizando tecnologias como PostgreSQL, MySQL e Oracle.
 No back-end, possuo base sólida em programação orientada a objetos, com experiência em Python, C# e Java. Os projetos mais estruturados foram desenvolvidos com Java + Spring Boot, utilizando conceitos como APIs REST, integração com banco de dados e organização modular.
 No front-end, já trabalhei com HTML e CSS, além de ter tido contato com JavaScript e TypeScript. Também explorei o uso do framework Angular em projetos iniciais, com foco em responsividade e organização de componentes.
 
-Entre as experiências práticas, informo Visão Negócio, onde participei do desenvolvimento de interfaces públicas da plataforma, colaborando na estruturação visual e responsiva das telas, e acompanhando de perto a integração entre front-end, back-end e banco de dados em um ambiente de aplicação real.
+Entre as experiências práticas, destaco minha atuação na Startup Visão Negócio, onde participei do desenvolvimento de interfaces públicas da plataforma e da criação de fluxos automatizados de atendimento via WhatsApp, utilizando ferramentas como N8n, Evolution Manager e IA generativa da OpenAI. Contribuí na construção de soluções inteligentes de triagem e integração com APIs externas, conectando front-end, back-end, banco de dados e serviços externos de forma orquestrada e escalável.
 
-Além do ambiente acadêmico, possuo experiência profissional com atendimento ao cliente e gestão de fornecedores no setor automotivo, sempre buscando soluções práticas e eficazes. Também sou formado em Engenharia Mecânica pela UNIASSELVI, o que complementa minha formação com uma base sólida em ciências exatas, raciocínio lógico e fundamentos de programação.
+Além do ambiente acadêmico, possuo experiência profissional com atendimento ao cliente e gestão de fornecedores no setor automotivo, sempre buscando soluções práticas e eficazes. Minha formação em Engenharia Mecânica complementa meu perfil com uma base sólida em ciências exatas, raciocínio lógico e fundamentos de programação.
  # Linguagens de Programação
  
  ![Java](https://img.icons8.com/?size=80&id=13679&format=png&color=000000) ![C#](https://img.icons8.com/?size=80&id=45490&format=png&color=000000)
